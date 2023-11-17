@@ -1,1 +1,2 @@
 Langkah 7 - Edit file1 dan file2 di remote
+Langkah 9 - Edit file1 dan file2: edit baris yg ditulis di remote repo
